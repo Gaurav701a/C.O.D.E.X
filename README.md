@@ -3,6 +3,7 @@
 ## Project Overview
 Tracy is an AI assistant designed to assist developers working on the CODEX project. This project involves creating an Android application that utilizes SQLite for managing user details. The application provides functionality to insert, update, delete, and retrieve user information from a SQLite database.
 
+
 ## Project Structure
 The project consists of the following files:
 
