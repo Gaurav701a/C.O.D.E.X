@@ -20,7 +20,6 @@ To use Tracy and the CODEX project, follow these steps:
 6. Call the `getdata()` method to retrieve user data from the database as a `Cursor` object.
 
 ## Example Usage
-
 ```java
 // Create an instance of DBHelper
 DBHelper dbHelper = new DBHelper(context);
