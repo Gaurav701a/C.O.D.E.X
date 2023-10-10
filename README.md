@@ -65,15 +65,3 @@ if (cursor != null && cursor.moveToFirst()) {
 }
 ```
 
-## Dependencies
-This project does not have any external dependencies.
-
-## Compatibility
-This code is compatible with Android projects using the SQLite database.
-
-## Contributions
-Contributions to this project are welcome. Feel free to submit bug reports, feature requests, or pull requests to improve Tracy and the CODEX project.
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
-
